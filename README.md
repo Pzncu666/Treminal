@@ -9,3 +9,4 @@
 >>3.跳提醒通知玩家
 
 > Wireframe 圖:
+>>![image](https://github.com/Pzncu666/Treminal/blob/master/plan.jpg)
